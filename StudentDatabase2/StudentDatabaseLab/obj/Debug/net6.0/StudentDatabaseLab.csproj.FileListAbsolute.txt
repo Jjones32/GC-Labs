@@ -1,0 +1,15 @@
+/Users/imac/Desktop/GCLabs/StudentDatabase/StudentDatabaseLab/StudentDatabaseLab/bin/Debug/net6.0/StudentDatabaseLab
+/Users/imac/Desktop/GCLabs/StudentDatabase/StudentDatabaseLab/StudentDatabaseLab/bin/Debug/net6.0/StudentDatabaseLab.deps.json
+/Users/imac/Desktop/GCLabs/StudentDatabase/StudentDatabaseLab/StudentDatabaseLab/bin/Debug/net6.0/StudentDatabaseLab.runtimeconfig.json
+/Users/imac/Desktop/GCLabs/StudentDatabase/StudentDatabaseLab/StudentDatabaseLab/bin/Debug/net6.0/StudentDatabaseLab.dll
+/Users/imac/Desktop/GCLabs/StudentDatabase/StudentDatabaseLab/StudentDatabaseLab/bin/Debug/net6.0/ref/StudentDatabaseLab.dll
+/Users/imac/Desktop/GCLabs/StudentDatabase/StudentDatabaseLab/StudentDatabaseLab/bin/Debug/net6.0/StudentDatabaseLab.pdb
+/Users/imac/Desktop/GCLabs/StudentDatabase/StudentDatabaseLab/StudentDatabaseLab/obj/Debug/net6.0/StudentDatabaseLab.csproj.AssemblyReference.cache
+/Users/imac/Desktop/GCLabs/StudentDatabase/StudentDatabaseLab/StudentDatabaseLab/obj/Debug/net6.0/StudentDatabaseLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Desktop/GCLabs/StudentDatabase/StudentDatabaseLab/StudentDatabaseLab/obj/Debug/net6.0/StudentDatabaseLab.AssemblyInfoInputs.cache
+/Users/imac/Desktop/GCLabs/StudentDatabase/StudentDatabaseLab/StudentDatabaseLab/obj/Debug/net6.0/StudentDatabaseLab.AssemblyInfo.cs
+/Users/imac/Desktop/GCLabs/StudentDatabase/StudentDatabaseLab/StudentDatabaseLab/obj/Debug/net6.0/StudentDatabaseLab.csproj.CoreCompileInputs.cache
+/Users/imac/Desktop/GCLabs/StudentDatabase/StudentDatabaseLab/StudentDatabaseLab/obj/Debug/net6.0/StudentDatabaseLab.dll
+/Users/imac/Desktop/GCLabs/StudentDatabase/StudentDatabaseLab/StudentDatabaseLab/obj/Debug/net6.0/ref/StudentDatabaseLab.dll
+/Users/imac/Desktop/GCLabs/StudentDatabase/StudentDatabaseLab/StudentDatabaseLab/obj/Debug/net6.0/StudentDatabaseLab.pdb
+/Users/imac/Desktop/GCLabs/StudentDatabase/StudentDatabaseLab/StudentDatabaseLab/obj/Debug/net6.0/StudentDatabaseLab.genruntimeconfig.cache
