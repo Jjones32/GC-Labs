@@ -1,0 +1,15 @@
+/Users/imac/Desktop/GCLabs/LinqLab/LinqLab/bin/Debug/net6.0/LinqLab
+/Users/imac/Desktop/GCLabs/LinqLab/LinqLab/bin/Debug/net6.0/LinqLab.deps.json
+/Users/imac/Desktop/GCLabs/LinqLab/LinqLab/bin/Debug/net6.0/LinqLab.runtimeconfig.json
+/Users/imac/Desktop/GCLabs/LinqLab/LinqLab/bin/Debug/net6.0/LinqLab.dll
+/Users/imac/Desktop/GCLabs/LinqLab/LinqLab/bin/Debug/net6.0/ref/LinqLab.dll
+/Users/imac/Desktop/GCLabs/LinqLab/LinqLab/bin/Debug/net6.0/LinqLab.pdb
+/Users/imac/Desktop/GCLabs/LinqLab/LinqLab/obj/Debug/net6.0/LinqLab.csproj.AssemblyReference.cache
+/Users/imac/Desktop/GCLabs/LinqLab/LinqLab/obj/Debug/net6.0/LinqLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Desktop/GCLabs/LinqLab/LinqLab/obj/Debug/net6.0/LinqLab.AssemblyInfoInputs.cache
+/Users/imac/Desktop/GCLabs/LinqLab/LinqLab/obj/Debug/net6.0/LinqLab.AssemblyInfo.cs
+/Users/imac/Desktop/GCLabs/LinqLab/LinqLab/obj/Debug/net6.0/LinqLab.csproj.CoreCompileInputs.cache
+/Users/imac/Desktop/GCLabs/LinqLab/LinqLab/obj/Debug/net6.0/LinqLab.dll
+/Users/imac/Desktop/GCLabs/LinqLab/LinqLab/obj/Debug/net6.0/ref/LinqLab.dll
+/Users/imac/Desktop/GCLabs/LinqLab/LinqLab/obj/Debug/net6.0/LinqLab.pdb
+/Users/imac/Desktop/GCLabs/LinqLab/LinqLab/obj/Debug/net6.0/LinqLab.genruntimeconfig.cache
